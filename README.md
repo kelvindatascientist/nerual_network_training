@@ -1,1 +1,1 @@
-# nerual_network_training
+# neural_network_training
